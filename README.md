@@ -40,3 +40,6 @@ In addition, you will need a USB cable, keycaps, etc.
 
 ## Build guide
 
+https://github.com/telzo2000/coolpad05/blob/main/buildguide_for_coolpad05.md
+
+
