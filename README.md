@@ -9,6 +9,13 @@ coolpad05は３キーのキーボードです。
 
 ## firmware
 
+https://github.com/telzo2000/coolpad05/tree/main/firmware
+
+QMK_Firmware and VIAL support
+<br>
+QMK_FirmwareおよびVIAL対応
+
+<br>
 
 ## Parts list
 
